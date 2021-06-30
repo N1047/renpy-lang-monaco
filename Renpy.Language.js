@@ -1,7 +1,7 @@
 
 /*
 
-Renpy Language Files (V1.0) - Snippets and Completion
+Renpy Language File - Snippets and Completion
 
 */
 
@@ -1827,3 +1827,6 @@ monaco.languages.registerCompletionItemProvider('renpy', {
 		return { suggestions: suggestions };
 	}
 });
+
+
+/* Last Edit: 6/11/2021 1:55 PM UTC+7:00 */
